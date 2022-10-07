@@ -1,0 +1,255 @@
+MAIN MENU:
+
+Enter 1 to Add Passenger
+Enter 2 to List Planes
+Enter 3 to List Passengers
+Enter 4 to Display Food Count
+Enter 5 to Find Passenger
+Enter 6 to Quit
+1
+What is the plane ID?
+9002
+Please enter the passenger information:
+What is your name?
+Jacob
+Would you like chicken, pasta, or the special? 
+chicken
+What row would you like to sit on?
+1
+What seat would you like to sit in?
+2
+Passenger information added
+
+MAIN MENU:
+
+Enter 1 to Add Passenger
+Enter 2 to List Planes
+Enter 3 to List Passengers
+Enter 4 to Display Food Count
+Enter 5 to Find Passenger
+Enter 6 to Quit
+1
+What is the plane ID?
+9002
+Please enter the passenger information:
+What is your name?
+Jacob
+Would you like chicken, pasta, or the special? 
+pasta
+What row would you like to sit on?
+1
+What seat would you like to sit in?
+1
+That spot is already taken. Please choose another row and seat.
+Available seats:
+Available: Row = 1 Seat = 2
+Available: Row = 2 Seat = 1
+Available: Row = 2 Seat = 3
+Available: Row = 3 Seat = 1
+Available: Row = 3 Seat = 3
+Available: Row = 3 Seat = 4
+Available: Row = 4 Seat = 1
+Available: Row = 4 Seat = 3
+Available: Row = 4 Seat = 4
+Available: Row = 6 Seat = 1
+Available: Row = 6 Seat = 4
+Available: Row = 7 Seat = 1
+Available: Row = 7 Seat = 2
+Available: Row = 7 Seat = 3
+Available: Row = 8 Seat = 2
+Available: Row = 8 Seat = 4
+Available: Row = 9 Seat = 3
+Available: Row = 9 Seat = 4
+Available: Row = 10 Seat = 1
+Available: Row = 10 Seat = 2
+Available: Row = 10 Seat = 3
+Available: Row = 11 Seat = 2
+Available: Row = 11 Seat = 4
+Available: Row = 12 Seat = 1
+Available: Row = 12 Seat = 2
+Available: Row = 13 Seat = 2
+Available: Row = 13 Seat = 4
+Available: Row = 14 Seat = 4
+Available: Row = 15 Seat = 1
+Available: Row = 15 Seat = 2
+Available: Row = 16 Seat = 3
+Available: Row = 17 Seat = 1
+Available: Row = 17 Seat = 2
+Available: Row = 17 Seat = 4
+Available: Row = 18 Seat = 1
+Available: Row = 18 Seat = 2
+Available: Row = 18 Seat = 3
+Available: Row = 19 Seat = 2
+Available: Row = 19 Seat = 3
+Available: Row = 19 Seat = 4
+Available: Row = 20 Seat = 2
+Available: Row = 20 Seat = 3
+Available: Row = 20 Seat = 4
+Available: Row = 21 Seat = 2
+Available: Row = 22 Seat = 3
+Available: Row = 22 Seat = 4
+What row would you like to sit on?
+1
+What seat would you like to sit in?
+2
+Passenger information added
+
+MAIN MENU:
+
+Enter 1 to Add Passenger
+Enter 2 to List Planes
+Enter 3 to List Passengers
+Enter 4 to Display Food Count
+Enter 5 to Find Passenger
+Enter 6 to Quit
+2
+9002	Florida	1	42
+9003	Chicago	1	20
+9004	NYC	1	79
+9005	Florida	1	32
+9006	DC	2	33
+9007	Boston	2	23
+9008	Florida	2	32
+9009	NYC	2	32
+9010	Florida	3	51
+9011	Chicago	3	30
+9012	NYC	3	33
+9013	Florida	3	112
+9014	DC	4	28
+9015	Boston	4	27
+9016	Florida	4	54
+9017	NYC	4	80
+9018	Florida	5	27
+9019	Chicago	5	23
+9020	NYC	5	27
+9021	Florida	5	78
+9022	DC	6	20
+9023	Boston	6	21
+9024	Florida	6	33
+9025	NYC	6	30
+9026	Bahamas	7	32
+9027	Jamaica	7	34
+9028	London	7	61
+9029	Paris	7	61
+
+MAIN MENU:
+
+Enter 1 to Add Passenger
+Enter 2 to List Planes
+Enter 3 to List Passengers
+Enter 4 to Display Food Count
+Enter 5 to Find Passenger
+Enter 6 to Quit
+3
+What is the plane ID?
+9002
+Name = Fmeeeeeeeebumg Row = 1 Seat = 1
+Name = Wolfalth Row = 1 Seat = 3
+Name = Palmarev Row = 1 Seat = 4
+Name = Nurrisun Row = 2 Seat = 2
+Name = McCarthy Row = 2 Seat = 4
+Name = vugg Row = 3 Seat = 2
+Name = Frost Row = 4 Seat = 2
+Name = D'Agostino Row = 5 Seat = 1
+Name = Lee Row = 5 Seat = 2
+Name = wulli Row = 5 Seat = 3
+Name = Rhua Row = 5 Seat = 4
+Name = Kip Row = 6 Seat = 2
+Name = Kelly Row = 6 Seat = 3
+Name = Haynes Row = 7 Seat = 4
+Name = Eckstrom Row = 8 Seat = 1
+Name = Heiser Row = 8 Seat = 3
+Name = Guasyi Row = 9 Seat = 1
+Name = O'Neaill Row = 9 Seat = 2
+Name = Jynyseeeek Row = 10 Seat = 4
+Name = Nyland Row = 11 Seat = 1
+Name = Farmer Row = 11 Seat = 3
+Name = Hiinki Row = 12 Seat = 3
+Name = Soyak Row = 12 Seat = 4
+Name = Keaying Row = 13 Seat = 1
+Name = Latolle Row = 13 Seat = 3
+Name = Manfra Row = 14 Seat = 1
+Name = Weeeebeeeem Row = 14 Seat = 2
+Name = Hill Row = 14 Seat = 3
+Name = Jaekson Row = 15 Seat = 3
+Name = Dannilly Row = 15 Seat = 4
+Name = Rudamar Row = 16 Seat = 1
+Name = Beeeedymd Row = 16 Seat = 2
+Name = Sisimon Row = 16 Seat = 4
+Name = Yeeeepeeeez Row = 17 Seat = 3
+Name = Rossini Row = 18 Seat = 4
+Name = Ridmand Row = 19 Seat = 1
+Name = Caalson Row = 20 Seat = 1
+Name = Peters Row = 21 Seat = 1
+Name = Peellyck Row = 21 Seat = 3
+Name = Mawi Row = 21 Seat = 4
+Name = Antunev Row = 22 Seat = 1
+Name = Myngeeneeee Row = 22 Seat = 2
+
+MAIN MENU:
+
+Enter 1 to Add Passenger
+Enter 2 to List Planes
+Enter 3 to List Passengers
+Enter 4 to Display Food Count
+Enter 5 to Find Passenger
+Enter 6 to Quit
+4
+What is the plane ID?
+9002
+Snacks = 42
+
+MAIN MENU:
+
+Enter 1 to Add Passenger
+Enter 2 to List Planes
+Enter 3 to List Passengers
+Enter 4 to Display Food Count
+Enter 5 to Find Passenger
+Enter 6 to Quit
+4
+What is the plane ID?
+9005
+Chicken = 13 Pasta = 15 Special = 4
+
+MAIN MENU:
+
+Enter 1 to Add Passenger
+Enter 2 to List Planes
+Enter 3 to List Passengers
+Enter 4 to Display Food Count
+Enter 5 to Find Passenger
+Enter 6 to Quit
+5
+What is the plane ID?
+9002
+What is the passenger's name?
+Frost
+Row = 4 Seat = 2
+
+MAIN MENU:
+
+Enter 1 to Add Passenger
+Enter 2 to List Planes
+Enter 3 to List Passengers
+Enter 4 to Display Food Count
+Enter 5 to Find Passenger
+Enter 6 to Quit
+5
+What is the plane ID?
+9002
+What is the passenger's name?
+Embo
+Passenger not found
+
+MAIN MENU:
+
+Enter 1 to Add Passenger
+Enter 2 to List Planes
+Enter 3 to List Passengers
+Enter 4 to Display Food Count
+Enter 5 to Find Passenger
+Enter 6 to Quit
+6
+
+Shutting Down
